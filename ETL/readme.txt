@@ -1,1 +1,1 @@
-This is an ETL projec
+This is an ETL project
